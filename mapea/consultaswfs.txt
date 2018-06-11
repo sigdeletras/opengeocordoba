@@ -1,0 +1,7 @@
+http://www.ideandalucia.es/services/dera_div_admin/wfs?srsname=EPSG:25830&typename=dera_div_admin:da02_term_munic&version=1.0.0&request=GetFeature&service=WFS&PROPERTYNAME=*&cql_filter=cod_muni=\'14021\'&outputformat=application/json
+
+http://www.ideandalucia.es/services/dera_div_admin/wfs?srsname=EPSG:25830&typename=dera_div_admin:da02_term_munic&version=1.0.0&request=GetFeature&service=WFS&filter=<Filter><PropertyIsEqualTo><PropertyName>cod_mun</PropertyName><Literal>14021</Literal></PropertyIsEqualTo></Filter>&outputformat=application/json
+
+http://www.ideandalucia.es/services/dera_servicios/wfs?srsname=EPSG:25830&typename=dera_servicios:sv01_sanidad_centro_salud&version=1.0.0&request=GetFeature&service=WFS&CQL_FILTER='municipio=\'C&oacute;rdoba\''&outputformat=application/json
+
+http://www.ideandalucia.es/services/dera_servicios/wfs?srsname=EPSG:25830&typename=dera_servicios:sv01_sanidad_centro_salud&version=1.0.0&request=GetFeature&service=WFS&outputformat=application/json&&CQL_FILTER=municipio=%27Cordoba%27
