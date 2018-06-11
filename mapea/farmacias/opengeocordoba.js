@@ -2,8 +2,8 @@ mapajs = M.map({
     //container: "map",controls:['Scale','ScaleLine','layerswitcher','location','mouse'],
     container: "map",controls:["panzoombar",'Scale','ScaleLine','location','mouse','layerswitcher'],
     center: {
-    	x: 345248,
-    	y: 4193762
+    	x: 350373,
+    	y: 4190372
     },
     zoom: 7,
     wmcfiles: ["cdau_satelite","cdau"]
