@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Viales"
-date: 2015-12-04 22:43:23
+date: 2018-06-12 22:43:23
 image: '/assets/img/linter/errors-list.png'
-description: 'Descripción de la capa.'
-main-class: 'Sistema Urbano'
+description: 'Viales principales'
+main-class: 'sistema_urbano'
 color: '#D6BA32'
 tags:
 - Sistema Urbano
 categories:
 twitter_text: 'Viales. OpenGeoCórdoba.'
-introduction: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'
+introduction: 'Capa de viales obtenidos del CDAU.'
 ---
 
 ## Introdução
