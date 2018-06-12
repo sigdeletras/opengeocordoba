@@ -11,7 +11,7 @@ email: pasoriano@sigdeletras.com
 twitter_username: sigdeletras
 github_username:  sigdeletras
 gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+disqus_username: pasoriano
 
 # Build settings
 markdown: kramdown
@@ -31,11 +31,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Temas
     url: /series
-  - title: Tags
+  - title: Etiquetas
     url: /tags
-  - title: About Me
+  - title: Sobre OpenGeoCórdoba
     url: /about
 
 # exclude my node related stuff
