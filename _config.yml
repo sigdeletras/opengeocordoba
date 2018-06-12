@@ -1,12 +1,12 @@
 # Site settings
 title: OpenGeoCórdoba
-description: A blog about lorem ipsum dolor sit amet
+description: Descipción proyecto
 baseurl: "/opengeocordoba" # the subpath of your site, e.g. /blog
 url: "http://www.sigdeletras.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Patricio Soriano
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Descripción usuario
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
