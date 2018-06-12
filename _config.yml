@@ -1,15 +1,15 @@
 # Site settings
 title: OpenGeoCórdoba
-description: A blog about lorem ipsum dolor sit amet
+description: Datos geográficos abiertos de Córdoba
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sigdeletras.com//opengeocordoba" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Patricio Soriano
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+user_description: Datos geográficos abiertos de Córdoba
+email: opengeocordoba@sigdeletras.com
+twitter_username: @sigdeletras
+github_username:  sigdeletras
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
@@ -29,13 +29,13 @@ compress_html:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Inicio
     url: /
-  - title: Series
+  - title: Temas
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: Sobre OpenGeoCórdoba
     url: /about
 
 # exclude my node related stuff
